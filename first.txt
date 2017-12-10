@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1 style="text-align:center;">Task One</h1>
+</head>
+<body>
+<p style="text-align:center;"><b>Name:</b>Sarthak Mohapatra<br><b>Year:</b>1st<br><b>Branch:</b>CSE<br><b>Interests:</b>Dev,Cryptography</p>
+<p style="text-align:center;font-size:150%"><b>FEEDBACK FOR ME</b></p>
+<form style="text-align:center;">
+Name:
+<input type="text" name="name"><br><br>
+Number:
+<input type="text" name="number"><br><br>
+E-mail:
+<input type="text" name="e-mail"><br><br>
+Message:
+<textarea name="message" rows="5" cols="14"></textarea><br><br>
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>
